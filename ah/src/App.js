@@ -5,8 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h3>New Game App</h3>
       </header>
-      <GameCard />
+      <div class="App-body">
+        <GameCard />
+      </div>
     </div>
   );
 }
