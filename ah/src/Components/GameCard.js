@@ -8,8 +8,8 @@ function GameCard(props){
             <img src={gameData.image} class="card-img-top" alt="..."></img>
             <div class="card-body">
                 <h5 class="card-title">{gameData.title}</h5>
-                <p class="Card-text">{gameData.platforms}</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <p class="card-text">{gameData.platforms}</p>
+                <a class="btn btn-primary">Show Details</a>
             </div>
         </div>
     );
