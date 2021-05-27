@@ -1,5 +1,6 @@
 import './App.css';
 import GameCard from './Components/GameCard';
+import GameData from './Data'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <h3>New Game App</h3>
       </header>
       <div class="App-body">
-        <GameCard />
+        <GameCard gameData={GameData} />
       </div>
     </div>
   );
