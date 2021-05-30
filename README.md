@@ -6,3 +6,4 @@ Users will be able to enter achievements that they're missing in games they're p
 
 this project needs to be fleshed out and planned. 
 I will actually sit down and flesh out this project tomorrow. 
+I did not actually sit down to work on the project today. I will tomorrow.
